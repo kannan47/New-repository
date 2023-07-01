@@ -17,6 +17,7 @@ public class Baseclass {
 	
 	public void url(WebElement element, String url) {
 		
+		element.sendKeys(url);
 		
 
 	}
