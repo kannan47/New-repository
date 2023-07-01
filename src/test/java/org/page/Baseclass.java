@@ -24,7 +24,11 @@ public class Baseclass {
 	
 	public void sendky() {
 		
-		
+	
+	}
+	
+	public void cli(WebElement element ) {
+	element.click();
 
 	}
 	
