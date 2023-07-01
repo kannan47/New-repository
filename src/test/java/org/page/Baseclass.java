@@ -32,18 +32,18 @@ public class Baseclass {
 
 	}
 	
-<<<<<<< HEAD
-	public void close() {
-		
 
-	}
-=======
 	public void quit( ) {
 		
 		
 		
 	}
 	
->>>>>>> 7d972375796d9538ef39dad51e8efa3ed3727004
+	public void close() {
+		
+
+	}
+
+
 	
 }
