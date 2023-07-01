@@ -32,11 +32,18 @@ public class Baseclass {
 
 	}
 	
+
 	public void quit( ) {
 		
 		
 		
 	}
 	
+	public void close() {
+		
+
+	}
+
+
 	
 }
